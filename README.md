@@ -162,7 +162,7 @@ Limpar carrinho
 Quando o projeto estiver estruturado, você pode:
 
 git init
-git remote add origin https://github.com/SeuUsuario/bom-hamburguer.git
+git remote add origin https://github.com/AndersonGL/App-Bom-Hamburguer.git
 git add .
 git commit -m "Primeiro commit"
 git push -u origin main
